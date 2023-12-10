@@ -1,5 +1,10 @@
+-- Schema
+CREATE SCHEMA deloitte_cs
+    AUTHORIZATION postgres;
+
+
 -- Customer Table
-CREATE TABLE Customer (
+CREATE TABLE deloitte_cs.Customer (
     CustomerID VARCHAR(10) PRIMARY KEY,
     CustomerName VARCHAR(255),
     Segment VARCHAR(255),
@@ -8,7 +13,7 @@ CREATE TABLE Customer (
 );
 
 -- Location Table
-CREATE TABLE Location (
+CREATE TABLE deloitte_cs.Location (
     LocationID VARCHAR(10) PRIMARY KEY,
     Country VARCHAR(255),
     City VARCHAR(255),
@@ -18,7 +23,7 @@ CREATE TABLE Location (
 );
 
 -- Customer Purchase Table
-CREATE TABLE CustomerPurchase (
+CREATE TABLE deloitte_cs.CustomerPurchase (
     OrderID VARCHAR(20) PRIMARY KEY,
     CustomerID VARCHAR(10),
     ProductID VARCHAR(20),
