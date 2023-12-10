@@ -1,6 +1,6 @@
 KPI ,Description ,Formula ,Granularity
-Average Price for Best-Selling Products,Measures the average price of the products that have the highest quantity of sales.,Total Sales Amount of a Product / Quantity Sold,Product
+Average Price for Best-Selling Products,Measures the average price of the products that have the highest quantity of sales.,"SUM (Sales Amount) / Quantity Sold), then calculate top 5 or 10, by Product, State, Month, Segment. ","Product, State, Month, Segment"
 "Sales Dynamics by States	",Tracks the change in sales over a specific period of time for each state.,(Sales Amount of Current Period - Sales Amount of Previous Period) / Sales Amount of Previous Period,State
-Best Customers in Segments,Identifies the customers who have made the highest total purchases in each consumer segment.,Sum of Sales Amount for each Customer in a specific Segment,"Customer, Segment"
-Top/Bottom Products According to Sales by State,Identifies the products with the highest and lowest sales in each state.,Sum of Sales Amount for each Product in a specific State,"Product, State"
-Top/Bottom Products According to Average Delivery Time by State,Identifies the products with the fastest and slowest average delivery times in each state.,Average (Ship Date - Order Date) for each Product in a specific State,"Product, State"
+Best Customers in Segments,Identifies the customers who have made the highest total purchases in each consumer segment or given the most profit. ,Sum (Sales Amount) by Customer by Segment,"Customer, Segment"
+Top/Bottom Products According to Sales by State,Identifies the products with the highest and lowest sales in each state.,Sum (Sales Amount) by Product by State,"Product, State"
+Top/Bottom Products According to Average Delivery Time by State,Identifies the products with the fastest and slowest average delivery times in each state.,Average (Ship Date - Order Date) by Product by State,"Product, State"
