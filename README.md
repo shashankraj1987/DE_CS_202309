@@ -9,7 +9,7 @@ Deloitte Case study (Shashank Raj)
 - **Case_Study_202309_Data**: Contains the raw data, which will be provided from Source
 - **Final Codes**: Contains the codes to generate the Master Data from the files and the combine them. 
 - **Master Data**: Contains the Final Master Data generated from the codes. 
-- **Misc Files**: COntains the High level system architecture and the Database Dump from Postgresql 16.0. This can be directly imported into a Postgresql Database to look at the output. 
+- **Misc Files**: Contains the High level system architecture and the Database Dump from Postgresql 16.0. This can be directly imported into a Postgresql Database to look at the output. 
 - **Solution**: Contains the 6 Deliverables requested from the quiz. 
 
 ## Running the Python Codes:
