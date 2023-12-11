@@ -1,1 +1,9 @@
 Data Mart System Name,Count Rows,Count Distinct Primary Key
+customer,4761,4761
+customer_purchase,9460,9460
+customer_returns,6653,6653
+location,624,624
+order,4759,4759
+product,1880,1880
+shipment,4759,4759
+Combined File,4774,4774

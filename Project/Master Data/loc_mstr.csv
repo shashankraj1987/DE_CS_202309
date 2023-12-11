@@ -1,0 +1,625 @@
+Location_ID,Country,City,State,Postal Code,Region
+US-Cen-Tex-Hou-77095,United States,Houston,Texas,77095,Central
+US-Cen-Ill-Nap-60540,United States,Naperville,Illinois,60540,Central
+US-Eas-Pen-Phi-19143,United States,Philadelphia,Pennsylvania,19143,East
+US-Sou-Ken-Hen-42420,United States,Henderson,Kentucky,42420,South
+US-Sou-Geo-Ath-30605,United States,Athens,Georgia,30605,South
+US-Wes-Cal-Los-90049,United States,Los Angeles,California,90049,West
+US-Cen-Tex-Hun-77340,United States,Huntsville,Texas,77340,Central
+US-Cen-Tex-Lar-78041,United States,Laredo,Texas,78041,Central
+US-Sou-Vir-Spr-22153,United States,Springfield,Virginia,22153,South
+US-Eas-Del-Dov-19901,United States,Dover,Delaware,19901,East
+US-Sou-Lou-Bos-71111,United States,Bossier City,Louisiana,71111,South
+US-Wes-Cal-San-94109,United States,San Francisco,California,94109,West
+US-Eas-Ohi-New-43055,United States,Newark,Ohio,43055,East
+US-Sou-Sou-Mou-29464,United States,Mount Pleasant,South Carolina,29464,South
+US-Eas-Pen-Phi-19140,United States,Philadelphia,Pennsylvania,19140,East
+US-Sou-Geo-Ros-30076,United States,Roswell,Georgia,30076,South
+US-Eas-Pen-Phi-19134,United States,Philadelphia,Pennsylvania,19134,East
+US-Wes-Ore-Spr-97477,United States,Springfield,Oregon,97477,West
+US-Wes-Ari-Sco-85254,United States,Scottsdale,Arizona,85254,West
+US-Cen-Mic-Wes-48185,United States,Westland,Michigan,48185,Central
+US-Sou-Ten-Smy-37167,United States,Smyrna,Tennessee,37167,South
+US-Sou-Ark-Jon-72401,United States,Jonesboro,Arkansas,72401,South
+US-Sou-Flo-Mia-33180,United States,Miami,Florida,33180,South
+US-Cen-Ind-Laf-47905,United States,Lafayette,Indiana,47905,Central
+US-Wes-Nev-Las-89115,United States,Las Vegas,Nevada,89115,West
+US-Sou-Vir-Ale-22304,United States,Alexandria,Virginia,22304,South
+US-Cen-Sou-Rap-57701,United States,Rapid City,South Dakota,57701,Central
+US-Wes-Cal-San-92037,United States,San Diego,California,92037,West
+US-Eas-New-New-10024,United States,New York City,New York,10024,East
+US-Cen-Mic-Det-48234,United States,Detroit,Michigan,48234,Central
+US-Wes-Cal-Mis-92691,United States,Mission Viejo,California,92691,West
+US-Cen-Wis-Gre-54302,United States,Green Bay,Wisconsin,54302,Central
+US-Sou-Flo-Sai-33710,United States,Saint Petersburg,Florida,33710,South
+US-Wes-Was-Sea-98105,United States,Seattle,Washington,98105,West
+US-Wes-Cal-San-92024,United States,San Diego,California,92024,West
+US-Wes-Cal-Esc-92025,United States,Escondido,California,92025,West
+US-Sou-Vir-Che-23320,United States,Chesapeake,Virginia,23320,South
+US-Cen-Ill-Rom-60441,United States,Romeoville,Illinois,60441,Central
+US-Eas-New-Lin-7036,United States,Linden,New Jersey,7036,East
+US-Wes-Nev-Nor-89031,United States,North Las Vegas,Nevada,89031,West
+US-Cen-Mis-Col-65203,United States,Columbia,Missouri,65203,Central
+US-Wes-Cal-Con-94521,United States,Concord,California,94521,West
+US-Wes-Was-Sea-98103,United States,Seattle,Washington,98103,West
+US-Cen-Tex-Dal-75220,United States,Dallas,Texas,75220,Central
+US-Cen-Ill-Chi-60653,United States,Chicago,Illinois,60653,Central
+US-Cen-Tex-Arl-76017,United States,Arlington,Texas,76017,Central
+US-Cen-Tex-Lub-79424,United States,Lubbock,Texas,79424,Central
+US-Cen-Ind-Ric-47374,United States,Richmond,Indiana,47374,Central
+US-Cen-Ill-Woo-60098,United States,Woodstock,Illinois,60098,Central
+US-Wes-Cal-Mor-92553,United States,Moreno Valley,California,92553,West
+US-Cen-Tex-El -79907,United States,El Paso,Texas,79907,Central
+US-Wes-Ore-Med-97504,United States,Medford,Oregon,97504,West
+US-Eas-Ohi-Col-43229,United States,Columbus,Ohio,43229,East
+US-Cen-Ill-Elm-60126,United States,Elmhurst,Illinois,60126,Central
+US-Wes-Was-Sea-98115,United States,Seattle,Washington,98115,West
+US-Eas-New-New-10035,United States,New York City,New York,10035,East
+US-Cen-Tex-Hou-77036,United States,Houston,Texas,77036,Central
+US-Eas-New-New-10009,United States,New York City,New York,10009,East
+US-Eas-Pen-Phi-19120,United States,Philadelphia,Pennsylvania,19120,East
+US-Sou-Nor-Wil-28403,United States,Wilmington,North Carolina,28403,South
+US-Sou-Flo-Mar-33063,United States,Margate,Florida,33063,South
+US-Sou-Sou-Col-29203,United States,Columbia,South Carolina,29203,South
+US-Eas-New-Yon-10701,United States,Yonkers,New York,10701,East
+US-Wes-Was-Des-98198,United States,Des Moines,Washington,98198,West
+US-Wes-Col-Den-80219,United States,Denver,Colorado,80219,West
+US-Cen-Mic-Roy-48073,United States,Royal Oak,Michigan,48073,Central
+US-Wes-Cal-Ros-95661,United States,Roseville,California,95661,West
+US-Sou-Ken-Ric-40475,United States,Richmond,Kentucky,40475,South
+US-Wes-Cal-Hun-92646,United States,Huntington Beach,California,92646,West
+US-Sou-Flo-Jac-32216,United States,Jacksonville,Florida,32216,South
+US-Wes-Uta-Log-84321,United States,Logan,Utah,84321,West
+US-Sou-Flo-Tam-33614,United States,Tampa,Florida,33614,South
+US-Sou-Nor-Ral-27604,United States,Raleigh,North Carolina,27604,South
+US-Sou-Mis-Jac-39212,United States,Jackson,Mississippi,39212,South
+US-Cen-Min-Lak-55044,United States,Lakeville,Minnesota,55044,Central
+US-Cen-Tex-Dal-75217,United States,Dallas,Texas,75217,Central
+US-Wes-Cal-Bur-91505,United States,Burbank,California,91505,West
+US-Wes-Cal-San-94110,United States,San Francisco,California,94110,West
+US-Sou-Flo-Lak-33801,United States,Lakeland,Florida,33801,South
+US-Sou-Ten-Kno-37918,United States,Knoxville,Tennessee,37918,South
+US-Eas-Ohi-Ham-45011,United States,Hamilton,Ohio,45011,East
+US-Sou-Nor-Ash-28806,United States,Asheville,North Carolina,28806,South
+US-Wes-Ari-Tuc-85705,United States,Tucson,Arizona,85705,West
+US-Sou-Nor-Gre-27405,United States,Greensboro,North Carolina,27405,South
+US-Cen-Ind-Por-46368,United States,Portage,Indiana,46368,Central
+US-Sou-Flo-Del-33445,United States,Delray Beach,Florida,33445,South
+US-Wes-Cal-Los-90036,United States,Los Angeles,California,90036,West
+US-Wes-Cal-Fre-93727,United States,Fresno,California,93727,West
+US-Wes-Cal-Pom-91767,United States,Pomona,California,91767,West
+US-Wes-Cal-San-94122,United States,San Francisco,California,94122,West
+US-Cen-Iow-Des-50315,United States,Des Moines,Iowa,50315,Central
+US-Wes-New-Alb-87105,United States,Albuquerque,New Mexico,87105,West
+US-Eas-Ohi-Spr-45503,United States,Springfield,Ohio,45503,East
+US-Cen-Tex-Pla-75023,United States,Plano,Texas,75023,Central
+US-Cen-Tex-Bro-78521,United States,Brownsville,Texas,78521,Central
+US-Cen-Min-App-55124,United States,Apple Valley,Minnesota,55124,Central
+US-Eas-New-Lon-11561,United States,Long Beach,New York,11561,East
+US-Cen-Ill-Chi-60610,United States,Chicago,Illinois,60610,Central
+US-Wes-Cal-Val-94591,United States,Vallejo,California,94591,West
+US-Eas-Mas-Rev-2151,United States,Revere,Massachusetts,2151,East
+US-Sou-Vir-Vir-23464,United States,Virginia Beach,Virginia,23464,South
+US-Wes-Cal-Los-90008,United States,Los Angeles,California,90008,West
+US-Sou-Lou-Laf-70506,United States,Lafayette,Louisiana,70506,South
+US-Cen-Mic-Det-48205,United States,Detroit,Michigan,48205,Central
+US-Cen-Ill-Dec-62521,United States,Decatur,Illinois,62521,Central
+US-Cen-Mic-Dea-48127,United States,Dearborn Heights,Michigan,48127,Central
+US-Wes-Cal-Los-90004,United States,Los Angeles,California,90004,West
+US-Eas-Pen-Lan-17602,United States,Lancaster,Pennsylvania,17602,East
+US-Sou-Ala-Mob-36608,United States,Mobile,Alabama,36608,South
+US-Sou-Geo-Mar-30062,United States,Marietta,Georgia,30062,South
+US-Wes-Ari-Gle-85301,United States,Glendale,Arizona,85301,West
+US-Eas-Ohi-Tol-43615,United States,Toledo,Ohio,43615,East
+US-Wes-Ari-Cha-85224,United States,Chandler,Arizona,85224,West
+US-Sou-Ala-Dec-35601,United States,Decatur,Alabama,35601,South
+US-Wes-Mon-Gre-59405,United States,Great Falls,Montana,59405,West
+US-Cen-Tex-Aus-78745,United States,Austin,Texas,78745,Central
+US-Wes-Ida-Lew-83501,United States,Lewiston,Idaho,83501,West
+US-Wes-Cal-Red-90278,United States,Redondo Beach,California,90278,West
+US-Wes-Cal-Lod-95240,United States,Lodi,California,95240,West
+US-Cen-Ind-Blo-47401,United States,Bloomington,Indiana,47401,Central
+US-Eas-Mar-Bal-21215,United States,Baltimore,Maryland,21215,East
+US-Sou-Vir-Arl-22204,United States,Arlington,Virginia,22204,South
+US-Cen-Tex-Hou-77070,United States,Houston,Texas,77070,Central
+US-Wes-Cal-Los-90045,United States,Los Angeles,California,90045,West
+US-Eas-New-Tro-12180,United States,Troy,New York,12180,East
+US-Wes-Cal-San-91776,United States,San Gabriel,California,91776,West
+US-Eas-New-Jam-14701,United States,Jamestown,New York,14701,East
+US-Sou-Ten-Mem-38109,United States,Memphis,Tennessee,38109,South
+US-Eas-New-Roc-14609,United States,Rochester,New York,14609,East
+US-Sou-Lou-Lak-70601,United States,Lake Charles,Louisiana,70601,South
+US-Sou-Ken-Lou-40214,United States,Louisville,Kentucky,40214,South
+US-Cen-Wis-App-54915,United States,Appleton,Wisconsin,54915,Central
+US-Cen-Mic-Jac-49201,United States,Jackson,Michigan,49201,Central
+US-Cen-Ill-Fre-61032,United States,Freeport,Illinois,61032,Central
+US-Eas-Mas-Law-1841,United States,Lawrence,Massachusetts,1841,East
+US-Wes-Was-Ken-98031,United States,Kent,Washington,98031,West
+US-Wes-Cal-San-95123,United States,San Jose,California,95123,West
+US-Eas-New-Wat-13601,United States,Watertown,New York,13601,East
+US-Cen-Tex-For-76106,United States,Fort Worth,Texas,76106,Central
+US-Eas-Mas-Fra-2038,United States,Franklin,Massachusetts,2038,East
+US-Cen-Wis-Mil-53209,United States,Milwaukee,Wisconsin,53209,Central
+US-Sou-Flo-Hia-33012,United States,Hialeah,Florida,33012,South
+US-Wes-Uta-Wes-84084,United States,West Jordan,Utah,84084,West
+US-Wes-Cal-Oak-94601,United States,Oakland,California,94601,West
+US-Cen-Wis-Eau-54703,United States,Eau Claire,Wisconsin,54703,Central
+US-Eas-Ohi-Akr-44312,United States,Akron,Ohio,44312,East
+US-Eas-Ohi-Cle-44105,United States,Cleveland,Ohio,44105,East
+US-Cen-Mic-Mid-48640,United States,Midland,Michigan,48640,Central
+US-Eas-New-Dov-3820,United States,Dover,New Hampshire,3820,East
+US-Cen-Tex-San-78666,United States,San Marcos,Texas,78666,Central
+US-Wes-Was-Bel-98006,United States,Bellevue,Washington,98006,West
+US-Cen-Ill-Chi-60623,United States,Chicago,Illinois,60623,Central
+US-Wes-Uta-Mur-84107,United States,Murray,Utah,84107,West
+US-Wes-Cal-San-92105,United States,San Diego,California,92105,West
+US-Sou-Vir-Ric-23223,United States,Richmond,Virginia,23223,South
+US-Cen-Ill-Buf-60089,United States,Buffalo Grove,Illinois,60089,Central
+US-Eas-New-Lak-8701,United States,Lakewood,New Jersey,8701,East
+US-Sou-Ark-Lit-72209,United States,Little Rock,Arkansas,72209,South
+US-Wes-Uta-Ore-84057,United States,Orem,Utah,84057,West
+US-Cen-Ill-Aur-60505,United States,Aurora,Illinois,60505,Central
+US-Cen-Ill-Peo-61604,United States,Peoria,Illinois,61604,Central
+US-Sou-Ten-Bri-37620,United States,Bristol,Tennessee,37620,South
+US-Wes-Cal-Los-90032,United States,Los Angeles,California,90032,West
+US-Sou-Vir-Har-22801,United States,Harrisonburg,Virginia,22801,South
+US-Cen-Tex-San-78207,United States,San Antonio,Texas,78207,Central
+US-Eas-New-Hem-11550,United States,Hempstead,New York,11550,East
+US-Cen-Ind-Mis-46544,United States,Mishawaka,Indiana,46544,Central
+US-Eas-Del-New-19711,United States,Newark,Delaware,19711,East
+US-Cen-Okl-Law-73505,United States,Lawton,Oklahoma,73505,Central
+US-Wes-Col-Pue-81001,United States,Pueblo,Colorado,81001,West
+US-Eas-Con-Mer-6450,United States,Meriden,Connecticut,6450,East
+US-Sou-Vir-Way-22980,United States,Waynesboro,Virginia,22980,South
+US-Wes-Ari-Pho-85023,United States,Phoenix,Arizona,85023,West
+US-Cen-Min-Min-55407,United States,Minneapolis,Minnesota,55407,Central
+US-Eas-Pen-Che-19013,United States,Chester,Pennsylvania,19013,East
+US-Wes-Col-Lou-80027,United States,Louisville,Colorado,80027,West
+US-Sou-Nor-Con-28027,United States,Concord,North Carolina,28027,South
+US-Wes-Ore-Sal-97301,United States,Salem,Oregon,97301,West
+US-Sou-Mis-Sou-38671,United States,Southaven,Mississippi,38671,South
+US-Eas-Ohi-Cin-45231,United States,Cincinnati,Ohio,45231,East
+US-Eas-New-New-10011,United States,New York City,New York,10011,East
+US-Sou-Flo-Del-32725,United States,Deltona,Florida,32725,South
+US-Eas-New-Pla-7060,United States,Plainfield,New Jersey,7060,East
+US-Wes-Col-Aur-80013,United States,Aurora,Colorado,80013,West
+US-Sou-Flo-Pal-32137,United States,Palm Coast,Florida,32137,South
+US-Wes-Cal-El -92020,United States,El Cajon,California,92020,West
+US-Eas-New-Buf-14215,United States,Buffalo,New York,14215,East
+US-Eas-New-Hac-7601,United States,Hackensack,New Jersey,7601,East
+US-Eas-New-Nia-14304,United States,Niagara Falls,New York,14304,East
+US-Cen-Tex-Lea-77573,United States,League City,Texas,77573,Central
+US-Cen-Sou-Sio-57103,United States,Sioux Falls,South Dakota,57103,Central
+US-Eas-New-New-10801,United States,New Rochelle,New York,10801,East
+US-Eas-Con-Bri-6010,United States,Bristol,Connecticut,6010,East
+US-Wes-Cal-Riv-92503,United States,Riverside,California,92503,West
+US-Cen-Neb-Oma-68104,United States,Omaha,Nebraska,68104,Central
+US-Sou-Geo-Atl-30318,United States,Atlanta,Georgia,30318,South
+US-Wes-Uta-Dra-84020,United States,Draper,Utah,84020,West
+US-Sou-Flo-Apo-32712,United States,Apopka,Florida,32712,South
+US-Sou-Nor-Cha-28205,United States,Charlotte,North Carolina,28205,South
+US-Cen-Mis-Spr-65807,United States,Springfield,Missouri,65807,Central
+US-Eas-Mai-Ban-4401,United States,Bangor,Maine,4401,East
+US-Wes-Uta-Ple-84062,United States,Pleasant Grove,Utah,84062,West
+US-Cen-Tex-Tex-77590,United States,Texas City,Texas,77590,Central
+US-Cen-Mic-Tre-48183,United States,Trenton,Michigan,48183,Central
+US-Wes-Cal-Vac-95687,United States,Vacaville,California,95687,West
+US-Sou-Geo-Woo-30188,United States,Woodstock,Georgia,30188,South
+US-Sou-Flo-Hol-33021,United States,Hollywood,Florida,33021,South
+US-Cen-Tex-Dal-75081,United States,Dallas,Texas,75081,Central
+US-Eas-Con-Fai-6824,United States,Fairfield,Connecticut,6824,East
+US-Sou-Geo-Col-31907,United States,Columbus,Georgia,31907,South
+US-Sou-Vir-Ham-23666,United States,Hampton,Virginia,23666,South
+US-Eas-Ohi-Lak-44107,United States,Lakewood,Ohio,44107,East
+US-Cen-Mis-Sai-63301,United States,Saint Charles,Missouri,63301,Central
+US-Sou-Flo-Nor-33161,United States,North Miami,Florida,33161,South
+US-Cen-Mic-Gra-49505,United States,Grand Rapids,Michigan,49505,Central
+US-Eas-New-Oce-11572,United States,Oceanside,New York,11572,East
+US-Wes-Mon-Bil-59102,United States,Billings,Montana,59102,West
+US-Sou-Ken-Owe-42301,United States,Owensboro,Kentucky,42301,South
+US-Sou-Flo-Mia-33178,United States,Miami,Florida,33178,South
+US-Wes-New-San-87505,United States,Santa Fe,New Mexico,87505,West
+US-Sou-Ark-Fay-72701,United States,Fayetteville,Arkansas,72701,South
+US-Eas-Ohi-Bow-43402,United States,Bowling Green,Ohio,43402,East
+US-Cen-Okl-Tul-74133,United States,Tulsa,Oklahoma,74133,Central
+US-Cen-Ill-Osw-60543,United States,Oswego,Illinois,60543,Central
+US-Wes-Cal-San-95051,United States,Santa Clara,California,95051,West
+US-Wes-Was-Pas-99301,United States,Pasco,Washington,99301,West
+US-Cen-Tex-Tyl-75701,United States,Tyler,Texas,75701,Central
+US-Sou-Geo-Mac-31204,United States,Macon,Georgia,31204,South
+US-Cen-Mic-Det-48227,United States,Detroit,Michigan,48227,Central
+US-Eas-Ohi-Lan-43130,United States,Lancaster,Ohio,43130,East
+US-Eas-Mas-Low-1852,United States,Lowell,Massachusetts,1852,East
+US-Sou-Nor-Gre-27834,United States,Greenville,North Carolina,27834,South
+US-Eas-New-Cli-7011,United States,Clifton,New Jersey,7011,East
+US-Wes-Ore-Gre-97030,United States,Gresham,Oregon,97030,West
+US-Wes-Cal-Oxn-93030,United States,Oxnard,California,93030,West
+US-Sou-Nor-Car-27511,United States,Cary,North Carolina,27511,South
+US-Cen-Kan-Ola-66062,United States,Olathe,Kansas,66062,Central
+US-Eas-Ohi-Fai-45014,United States,Fairfield,Ohio,45014,East
+US-Wes-Ari-Tem-85281,United States,Tempe,Arizona,85281,West
+US-Cen-Tex-Ode-79762,United States,Odessa,Texas,79762,Central
+US-Cen-Tex-Cor-78415,United States,Corpus Christi,Texas,78415,Central
+US-Wes-Cal-Chu-91911,United States,Chula Vista,California,91911,West
+US-Wes-Cal-Lon-90805,United States,Long Beach,California,90805,West
+US-Eas-Mar-Col-21044,United States,Columbia,Maryland,21044,East
+US-Cen-Ill-Blo-61701,United States,Bloomington,Illinois,61701,Central
+US-Cen-Tex-Gar-75043,United States,Garland,Texas,75043,Central
+US-Sou-Flo-Boc-33433,United States,Boca Raton,Florida,33433,South
+US-Cen-Tex-Hou-77041,United States,Houston,Texas,77041,Central
+US-Cen-Tex-Mes-75150,United States,Mesquite,Texas,75150,Central
+US-Sou-Nor-Fay-28314,United States,Fayetteville,North Carolina,28314,South
+US-Sou-Flo-Boy-33437,United States,Boynton Beach,Florida,33437,South
+US-Sou-Ten-Cla-37042,United States,Clarksville,Tennessee,37042,South
+US-Wes-Nev-Ren-89502,United States,Reno,Nevada,89502,West
+US-Sou-Nor-Dur-27707,United States,Durham,North Carolina,27707,South
+US-Cen-Ill-Eva-60201,United States,Evanston,Illinois,60201,Central
+US-Cen-Ind-Ind-46203,United States,Indianapolis,Indiana,46203,Central
+US-Sou-Nor-Jac-28540,United States,Jacksonville,North Carolina,28540,South
+US-Wes-Cal-Man-95336,United States,Manteca,California,95336,West
+US-Wes-Cal-Pas-91104,United States,Pasadena,California,91104,West
+US-Wes-Was-Edm-98026,United States,Edmonds,Washington,98026,West
+US-Eas-New-Mou-10550,United States,Mount Vernon,New York,10550,East
+US-Eas-Mas-Eve-2149,United States,Everett,Massachusetts,2149,East
+US-Eas-New-Con-3301,United States,Concord,New Hampshire,3301,East
+US-Eas-Ohi-Par-44134,United States,Parma,Ohio,44134,East
+US-Cen-Tex-Bea-77705,United States,Beaumont,Texas,77705,Central
+US-Sou-Ark-Tex-71854,United States,Texarkana,Arkansas,71854,South
+US-Sou-Ala-Mon-36116,United States,Montgomery,Alabama,36116,South
+US-Wes-Cal-Lak-90712,United States,Lakewood,California,90712,West
+US-Sou-Vir-New-23602,United States,Newport News,Virginia,23602,South
+US-Wes-Cal-Ran-91730,United States,Rancho Cucamonga,California,91730,West
+US-Sou-Flo-For-33311,United States,Fort Lauderdale,Florida,33311,South
+US-Sou-Sou-Roc-29730,United States,Rock Hill,South Carolina,29730,South
+US-Cen-Kan-Gar-67846,United States,Garden City,Kansas,67846,Central
+US-Cen-Ind-Col-47201,United States,Columbus,Indiana,47201,Central
+US-Eas-Rho-Cra-2920,United States,Cranston,Rhode Island,2920,East
+US-Wes-Ari-Avo-85323,United States,Avondale,Arizona,85323,West
+US-Eas-Ohi-Lor-44052,United States,Lorain,Ohio,44052,East
+US-Eas-Ohi-Mas-45040,United States,Mason,Ohio,45040,East
+US-Wes-Ore-Por-97206,United States,Portland,Oregon,97206,West
+US-Eas-New-Ora-7050,United States,Orange,New Jersey,7050,East
+US-Eas-Ohi-Med-44256,United States,Medina,Ohio,44256,East
+US-Cen-Tex-Irv-75061,United States,Irving,Texas,75061,Central
+US-Sou-Ten-Nas-37211,United States,Nashville,Tennessee,37211,South
+US-Cen-Wis-Wau-54401,United States,Wausau,Wisconsin,54401,Central
+US-Wes-Cal-Red-96003,United States,Redding,California,96003,West
+US-Eas-Pen-Rea-19601,United States,Reading,Pennsylvania,19601,East
+US-Cen-Wis-Mad-53711,United States,Madison,Wisconsin,53711,Central
+US-Cen-Tex-Car-75007,United States,Carrollton,Texas,75007,Central
+US-Cen-Tex-Pas-77506,United States,Pasadena,Texas,77506,Central
+US-Sou-Ten-Joh-37604,United States,Johnson City,Tennessee,37604,South
+US-Cen-Kan-Man-66502,United States,Manhattan,Kansas,66502,Central
+US-Cen-Min-Moo-56560,United States,Moorhead,Minnesota,56560,Central
+US-Cen-Tex-Ced-75104,United States,Cedar Hill,Texas,75104,Central
+US-Cen-Ill-Des-60016,United States,Des Plaines,Illinois,60016,Central
+US-Cen-Wis-Fra-53132,United States,Franklin,Wisconsin,53132,Central
+US-Wes-Uta-Pro-84604,United States,Provo,Utah,84604,West
+US-Eas-Del-Wil-19805,United States,Wilmington,Delaware,19805,East
+US-Sou-Lou-Mon-71203,United States,Monroe,Louisiana,71203,South
+US-Cen-Min-Coo-55433,United States,Coon Rapids,Minnesota,55433,Central
+US-Wes-Uta-Sal-84106,United States,Salt Lake City,Utah,84106,West
+US-Cen-Ill-Bol-60440,United States,Bolingbrook,Illinois,60440,Central
+US-Cen-Mis-Sai-63116,United States,Saint Louis,Missouri,63116,Central
+US-Wes-Cal-Sac-95823,United States,Sacramento,California,95823,West
+US-Wes-Cal-Bre-94513,United States,Brentwood,California,94513,West
+US-Eas-Rho-Woo-2895,United States,Woonsocket,Rhode Island,2895,East
+US-Eas-New-Uti-13501,United States,Utica,New York,13501,East
+US-Wes-Ore-Tig-97224,United States,Tigard,Oregon,97224,West
+US-Eas-New-Fre-11520,United States,Freeport,New York,11520,East
+US-Cen-Ill-Sko-60076,United States,Skokie,Illinois,60076,Central
+US-Sou-Flo-Orl-32839,United States,Orlando,Florida,32839,South
+US-Eas-Mar-Cli-20735,United States,Clinton,Maryland,20735,East
+US-Sou-Geo-San-30328,United States,Sandy Springs,Georgia,30328,South
+US-Cen-Okl-Okl-73120,United States,Oklahoma City,Oklahoma,73120,Central
+US-Wes-Ari-Gil-85234,United States,Gilbert,Arizona,85234,West
+US-Wes-Was-Oly-98502,United States,Olympia,Washington,98502,West
+US-Wes-Ari-Mes-85204,United States,Mesa,Arizona,85204,West
+US-Wes-Ida-Cal-83605,United States,Caldwell,Idaho,83605,West
+US-Eas-Ohi-Mar-43302,United States,Marion,Ohio,43302,East
+US-Sou-Ala-Flo-35630,United States,Florence,Alabama,35630,South
+US-Sou-Ten-Col-38401,United States,Columbia,Tennessee,38401,South
+US-Wes-Col-Tho-80229,United States,Thornton,Colorado,80229,West
+US-Cen-Tex-Gra-75051,United States,Grand Prairie,Texas,75051,Central
+US-Cen-Tex-Por-77642,United States,Port Arthur,Texas,77642,Central
+US-Wes-Col-Col-80906,United States,Colorado Springs,Colorado,80906,West
+US-Eas-Mas-Bev-1915,United States,Beverly,Massachusetts,1915,East
+US-Wes-Cal-Ana-92804,United States,Anaheim,California,92804,West
+US-Eas-Ohi-Ken-44240,United States,Kent,Ohio,44240,East
+US-Cen-Ill-Sai-60174,United States,Saint Charles,Illinois,60174,Central
+US-Cen-Min-Cot-55016,United States,Cottage Grove,Minnesota,55016,Central
+US-Cen-Mic-Tay-48180,United States,Taylor,Michigan,48180,Central
+US-Eas-Rho-Pro-2908,United States,Providence,Rhode Island,2908,East
+US-Cen-Tex-Bay-77520,United States,Baytown,Texas,77520,Central
+US-Cen-Min-Woo-55125,United States,Woodbury,Minnesota,55125,Central
+US-Sou-Ten-Bar-38134,United States,Bartlett,Tennessee,38134,South
+US-Cen-Ill-Par-60068,United States,Park Ridge,Illinois,60068,Central
+US-Wes-Mon-Boz-59715,United States,Bozeman,Montana,59715,West
+US-Sou-Flo-Wes-33407,United States,West Palm Beach,Florida,33407,South
+US-Eas-New-Rom-13440,United States,Rome,New York,13440,East
+US-Sou-Vir-Suf-23434,United States,Suffolk,Virginia,23434,South
+US-Cen-Wis-Ken-53142,United States,Kenosha,Wisconsin,53142,Central
+US-Eas-New-Per-8861,United States,Perth Amboy,New Jersey,8861,East
+US-Sou-Ark-Hot-71901,United States,Hot Springs,Arkansas,71901,South
+US-Wes-New-Las-88001,United States,Las Cruces,New Mexico,88001,West
+US-Cen-Mic-Ste-48310,United States,Sterling Heights,Michigan,48310,Central
+US-Eas-Mas-Leo-1453,United States,Leominster,Massachusetts,1453,East
+US-Eas-Pen-Alt-16602,United States,Altoona,Pennsylvania,16602,East
+US-Cen-Tex-Cop-75019,United States,Coppell,Texas,75019,Central
+US-Eas-Pen-Bet-18018,United States,Bethlehem,Pennsylvania,18018,East
+US-Cen-Ind-New-47362,United States,New Castle,Indiana,47362,Central
+US-Sou-Flo-Pla-33317,United States,Plantation,Florida,33317,South
+US-Wes-Cal-Chi-95928,United States,Chico,California,95928,West
+US-Wes-Uta-Leh-84043,United States,Lehi,Utah,84043,West
+US-Sou-Ala-Aub-36830,United States,Auburn,Alabama,36830,South
+US-Wes-Cal-Lan-93534,United States,Lancaster,California,93534,West
+US-Wes-Cal-San-92404,United States,San Bernardino,California,92404,West
+US-Sou-Ala-Hun-35810,United States,Huntsville,Alabama,35810,South
+US-Wes-Cal-Tho-91360,United States,Thousand Oaks,California,91360,West
+US-Sou-Sou-Flo-29501,United States,Florence,South Carolina,29501,South
+US-Sou-Flo-Cor-33065,United States,Coral Springs,Florida,33065,South
+US-Wes-Was-Cov-98042,United States,Covington,Washington,98042,West
+US-Sou-Flo-Mia-33142,United States,Miami,Florida,33142,South
+US-Cen-Ill-Nor-61761,United States,Normal,Illinois,61761,Central
+US-Cen-Mic-Lan-48911,United States,Lansing,Michigan,48911,Central
+US-Wes-Was-Spo-99207,United States,Spokane,Washington,99207,West
+US-Eas-Con-Nor-6360,United States,Norwich,Connecticut,6360,East
+US-Cen-Neb-Nor-68701,United States,Norfolk,Nebraska,68701,Central
+US-Wes-New-Far-87401,United States,Farmington,New Mexico,87401,West
+US-Cen-Tex-Mca-78501,United States,Mcallen,Texas,78501,Central
+US-Wes-Cal-San-93454,United States,Santa Maria,California,93454,West
+US-Cen-Ind-New-47150,United States,New Albany,Indiana,47150,Central
+US-Sou-Flo-Day-32114,United States,Daytona Beach,Florida,32114,South
+US-Eas-Dis-Was-20016,United States,Washington,District of Columbia,20016,East
+US-Eas-Ohi-Tro-45373,United States,Troy,Ohio,45373,East
+US-Cen-Ill-Tin-60477,United States,Tinley Park,Illinois,60477,Central
+US-Cen-Tex-All-75002,United States,Allen,Texas,75002,Central
+US-Eas-Ohi-Cuy-44221,United States,Cuyahoga Falls,Ohio,44221,East
+US-Wes-Cal-Cam-93010,United States,Camarillo,California,93010,West
+US-Sou-Nor-Wil-27893,United States,Wilson,North Carolina,27893,South
+US-Cen-Ill-Fra-60423,United States,Frankfort,Illinois,60423,Central
+US-Cen-Tex-Hal-76117,United States,Haltom City,Texas,76117,Central
+US-Cen-Kan-Wic-67212,United States,Wichita,Kansas,67212,Central
+US-Eas-Con-Man-6040,United States,Manchester,Connecticut,6040,East
+US-Eas-New-Pat-7501,United States,Paterson,New Jersey,7501,East
+US-Wes-Ida-Poc-83201,United States,Pocatello,Idaho,83201,West
+US-Eas-Mai-Lew-4240,United States,Lewiston,Maine,4240,East
+US-Wes-Ari-Peo-85345,United States,Peoria,Arizona,85345,West
+US-Wes-Uta-Lay-84041,United States,Layton,Utah,84041,West
+US-Sou-Geo-Eas-30344,United States,East Point,Georgia,30344,South
+US-Sou-Geo-Smy-30080,United States,Smyrna,Georgia,30080,South
+US-Cen-Ill-Car-60188,United States,Carol Stream,Illinois,60188,Central
+US-Eas-Mas-Hol-1040,United States,Holyoke,Massachusetts,1040,East
+US-Eas-New-Vin-8360,United States,Vineland,New Jersey,8360,East
+US-Cen-Tex-Ama-79109,United States,Amarillo,Texas,79109,Central
+US-Sou-Flo-Por-34952,United States,Port Saint Lucie,Florida,34952,South
+US-Wes-Cal-Bak-93309,United States,Bakersfield,California,93309,West
+US-Cen-Ind-Sou-46614,United States,South Bend,Indiana,46614,Central
+US-Cen-Ill-Hig-60035,United States,Highland Park,Illinois,60035,Central
+US-Sou-Mis-Hat-39401,United States,Hattiesburg,Mississippi,39401,South
+US-Cen-Mis-Kir-63122,United States,Kirkwood,Missouri,63122,Central
+US-Wes-Ida-Boi-83704,United States,Boise,Idaho,83704,West
+US-Wes-Ore-Red-97756,United States,Redmond,Oregon,97756,West
+US-Cen-Min-Eag-55122,United States,Eagan,Minnesota,55122,Central
+US-Wes-Cal-Yuc-92399,United States,Yucaipa,California,92399,West
+US-Eas-Mas-New-2740,United States,New Bedford,Massachusetts,2740,East
+US-Eas-Pen-All-18103,United States,Allentown,Pennsylvania,18103,East
+US-Sou-Ken-Flo-41042,United States,Florence,Kentucky,41042,South
+US-Wes-Cal-Mur-92563,United States,Murrieta,California,92563,West
+US-Cen-Tex-Bed-76021,United States,Bedford,Texas,76021,Central
+US-Cen-Mic-Hol-49423,United States,Holland,Michigan,49423,Central
+US-Sou-Vir-Cha-22901,United States,Charlottesville,Virginia,22901,South
+US-Cen-Min-Roc-55901,United States,Rochester,Minnesota,55901,Central
+US-Wes-Cal-La -92253,United States,La Quinta,California,92253,West
+US-Sou-Flo-Tam-33319,United States,Tamarac,Florida,33319,South
+US-Wes-Cal-Red-92374,United States,Redlands,California,92374,West
+US-Eas-New-Aub-13021,United States,Auburn,New York,13021,East
+US-Sou-Sou-Nor-29406,United States,North Charleston,South Carolina,29406,South
+US-Cen-Mic-Lin-48146,United States,Lincoln Park,Michigan,48146,Central
+US-Eas-Mas-Qui-2169,United States,Quincy,Massachusetts,2169,East
+US-Sou-Ten-Fra-37064,United States,Franklin,Tennessee,37064,South
+US-Wes-Cal-Oce-92054,United States,Oceanside,California,92054,West
+US-Cen-Okl-Bro-74012,United States,Broken Arrow,Oklahoma,74012,Central
+US-Cen-Iow-Dub-52001,United States,Dubuque,Iowa,52001,Central
+US-Cen-Ill-Roc-61107,United States,Rockford,Illinois,61107,Central
+US-Sou-Ten-Mur-37130,United States,Murfreesboro,Tennessee,37130,South
+US-Eas-New-Bay-7002,United States,Bayonne,New Jersey,7002,East
+US-Cen-Ill-Qui-62301,United States,Quincy,Illinois,62301,Central
+US-Eas-Mas-Cam-2138,United States,Cambridge,Massachusetts,2138,East
+US-Eas-Mar-Roc-20852,United States,Rockville,Maryland,20852,East
+US-Eas-Con-Mid-6457,United States,Middletown,Connecticut,6457,East
+US-Wes-Ore-Hil-97123,United States,Hillsboro,Oregon,97123,West
+US-Sou-Geo-War-31088,United States,Warner Robins,Georgia,31088,South
+US-Cen-Mic-Ann-48104,United States,Ann Arbor,Michigan,48104,Central
+US-Wes-Cal-San-93101,United States,Santa Barbara,California,93101,West
+US-Cen-Ind-Nob-46060,United States,Noblesville,Indiana,46060,Central
+US-Cen-Mic-Mou-48858,United States,Mount Pleasant,Michigan,48858,Central
+US-Cen-Ill-Orl-60462,United States,Orland Park,Illinois,60462,Central
+US-Wes-Nev-Spa-89431,United States,Sparks,Nevada,89431,West
+US-Wes-Cal-Sal-93905,United States,Salinas,California,93905,West
+US-Sou-Ark-Con-72032,United States,Conway,Arkansas,72032,South
+US-Sou-Nor-Mon-28110,United States,Monroe,North Carolina,28110,South
+US-Eas-Ver-Bur-5408,United States,Burlington,Vermont,5408,East
+US-Cen-Ind-Law-46226,United States,Lawrence,Indiana,46226,Central
+US-Cen-Min-Ros-55113,United States,Roseville,Minnesota,55113,Central
+US-Sou-Ten-Leb-37087,United States,Lebanon,Tennessee,37087,South
+US-Wes-Mon-Hel-59601,United States,Helena,Montana,59601,West
+US-Wes-New-Rio-87124,United States,Rio Rancho,New Mexico,87124,West
+US-Cen-Tex-Fri-75034,United States,Frisco,Texas,75034,Central
+US-Eas-New-Mor-7960,United States,Morristown,New Jersey,7960,East
+US-Sou-Ten-Jac-38301,United States,Jackson,Tennessee,38301,South
+US-Sou-Flo-Pem-33024,United States,Pembroke Pines,Florida,33024,South
+US-Wes-Cal-Lak-92530,United States,Lake Elsinore,California,92530,West
+US-Cen-Ill-Cha-61821,United States,Champaign,Illinois,61821,Central
+US-Wes-Cal-San-92704,United States,Santa Ana,California,92704,West
+US-Cen-Mic-Dea-48126,United States,Dearborn,Michigan,48126,Central
+US-Sou-Flo-Tal-32303,United States,Tallahassee,Florida,32303,South
+US-Wes-Cal-Tem-92592,United States,Temecula,California,92592,West
+US-Wes-Cal-Cos-92627,United States,Costa Mesa,California,92627,West
+US-Cen-Ill-Gle-60025,United States,Glenview,Illinois,60025,Central
+US-Eas-New-Lin-11757,United States,Lindenhurst,New York,11757,East
+US-Wes-Ari-Bul-86442,United States,Bullhead City,Arizona,86442,West
+US-Cen-Wis-Sup-54880,United States,Superior,Wisconsin,54880,Central
+US-Eas-Ohi-Dub-43017,United States,Dublin,Ohio,43017,East
+US-Wes-Cal-Vis-93277,United States,Visalia,California,93277,West
+US-Wes-Mon-Mis-59801,United States,Missoula,Montana,59801,West
+US-Eas-Mar-Gai-20877,United States,Gaithersburg,Maryland,20877,East
+US-Wes-Was-Lon-98632,United States,Longview,Washington,98632,West
+US-Eas-New-Wes-7090,United States,Westfield,New Jersey,7090,East
+US-Sou-Mis-Gul-39503,United States,Gulfport,Mississippi,39503,South
+US-Eas-New-Atl-8401,United States,Atlantic City,New Jersey,8401,East
+US-Wes-Ari-Sie-85635,United States,Sierra Vista,Arizona,85635,West
+US-Sou-Ten-Cha-37421,United States,Chattanooga,Tennessee,37421,South
+US-Eas-New-Bel-7109,United States,Belleville,New Jersey,7109,East
+US-Cen-Wis-La -54601,United States,La Crosse,Wisconsin,54601,Central
+US-Cen-Tex-Rou-78664,United States,Round Rock,Texas,78664,Central
+US-Eas-Con-Mil-6460,United States,Milford,Connecticut,6460,East
+US-Eas-Mas-And-1810,United States,Andover,Massachusetts,1810,East
+US-Cen-Tex-Har-78550,United States,Harlingen,Texas,78550,Central
+US-Wes-Cal-Red-94061,United States,Redwood City,California,94061,West
+US-Cen-Tex-Bry-77803,United States,Bryan,Texas,77803,Central
+US-Eas-Mas-Mal-2148,United States,Malden,Massachusetts,2148,East
+US-Wes-Col-Lit-80122,United States,Littleton,Colorado,80122,West
+US-Cen-Mis-Sai-63376,United States,Saint Peters,Missouri,63376,Central
+US-Cen-Okl-Nor-73071,United States,Norman,Oklahoma,73071,Central
+US-Cen-Tex-Gra-76051,United States,Grapevine,Texas,76051,Central
+US-Sou-Nor-Gas-28052,United States,Gastonia,North Carolina,28052,South
+US-Cen-Mis-Jef-65109,United States,Jefferson City,Missouri,65109,Central
+US-Wes-Cal-San-92672,United States,San Clemente,California,92672,West
+US-Wes-Cal-Hes-92345,United States,Hesperia,California,92345,West
+US-Wes-Cal-Enc-92024,United States,Encinitas,California,92024,West
+US-Wes-Nev-Hen-89015,United States,Henderson,Nevada,89015,West
+US-Sou-Vir-Sal-24153,United States,Salem,Virginia,24153,South
+US-Wes-Ari-Yum-85364,United States,Yuma,Arizona,85364,West
+US-Eas-Con-Wat-6708,United States,Waterbury,Connecticut,6708,East
+US-Eas-Rho-War-2886,United States,Warwick,Rhode Island,2886,East
+US-Eas-New-Pas-7055,United States,Passaic,New Jersey,7055,East
+US-Wes-Col-Par-80134,United States,Parker,Colorado,80134,West
+US-Wes-Col-Lon-80501,United States,Longmont,Colorado,80501,West
+US-Eas-Pen-Yor-17403,United States,York,Pennsylvania,17403,East
+US-Cen-Mic-Ros-48066,United States,Roseville,Michigan,48066,Central
+US-Wes-Col-Bro-80020,United States,Broomfield,Colorado,80020,West
+US-Sou-Ken-Bow-42104,United States,Bowling Green,Kentucky,42104,South
+US-Sou-Flo-Pen-32503,United States,Pensacola,Florida,32503,South
+US-Sou-Ten-Hen-37075,United States,Hendersonville,Tennessee,37075,South
+US-Sou-Lou-Ken-70065,United States,Kenner,Louisiana,70065,South
+US-Cen-Wis-Wes-53214,United States,West Allis,Wisconsin,53214,Central
+US-Wes-Cal-Dav-95616,United States,Davis,California,95616,West
+US-Cen-Tex-Edi-78539,United States,Edinburg,Texas,78539,Central
+US-Wes-Col-For-80525,United States,Fort Collins,Colorado,80525,West
+US-Cen-Wis-She-53081,United States,Sheboygan,Wisconsin,53081,Central
+US-Cen-Tex-Pha-78577,United States,Pharr,Texas,78577,Central
+US-Wes-Col-Eng-80112,United States,Englewood,Colorado,80112,West
+US-Cen-Tex-Wac-76706,United States,Waco,Texas,76706,Central
+US-Cen-Wis-Wau-53186,United States,Waukesha,Wisconsin,53186,Central
+US-Sou-Ken-Geo-40324,United States,Georgetown,Kentucky,40324,South
+US-Cen-Iow-Ced-52402,United States,Cedar Rapids,Iowa,52402,Central
+US-Sou-Nor-Tho-27360,United States,Thomasville,North Carolina,27360,South
+US-Cen-Min-Sai-55106,United States,Saint Paul,Minnesota,55106,Central
+US-Cen-Ill-Whe-60090,United States,Wheeling,Illinois,60090,Central
+US-Wes-Cal-Sto-95207,United States,Stockton,California,95207,West
+US-Wes-Col-Arv-80004,United States,Arvada,Colorado,80004,West
+US-Wes-Ida-Twi-83301,United States,Twin Falls,Idaho,83301,West
+US-Wes-Cal-Lag-92677,United States,Laguna Niguel,California,92677,West
+US-Eas-Mas-Mar-1752,United States,Marlborough,Massachusetts,1752,East
+US-Wes-Was-Red-98052,United States,Redmond,Washington,98052,West
+US-Wes-Cal-Woo-95695,United States,Woodland,California,95695,West
+US-Cen-Iow-Iow-52240,United States,Iowa City,Iowa,52240,Central
+US-Cen-Ind-La -46350,United States,La Porte,Indiana,46350,Central
+US-Wes-Cal-Lak-92630,United States,Lake Forest,California,92630,West
+US-Sou-Flo-Cor-33134,United States,Coral Gables,Florida,33134,South
+US-Cen-Tex-The-75056,United States,The Colony,Texas,75056,Central
+US-Wes-Was-Mar-98270,United States,Marysville,Washington,98270,West
+US-Cen-Tex-La -77571,United States,La Porte,Texas,77571,Central
+US-Eas-New-Bri-8302,United States,Bridgeton,New Jersey,8302,East
+US-Wes-Cal-San-93405,United States,San Luis Obispo,California,93405,West
+US-Cen-Tex-Con-77301,United States,Conroe,Texas,77301,Central
+US-Cen-Iow-Urb-50322,United States,Urbandale,Iowa,50322,Central
+US-Wes-Ore-Eug-97405,United States,Eugene,Oregon,97405,West
+US-Wes-Wyo-Che-82001,United States,Cheyenne,Wyoming,82001,West
+US-Cen-Ill-Arl-60004,United States,Arlington Heights,Illinois,60004,Central
+US-Wes-Was-Van-98661,United States,Vancouver,Washington,98661,West
+US-Wes-Was-Aub-98002,United States,Auburn,Washington,98002,West
+US-Sou-Nor-Bur-27217,United States,Burlington,North Carolina,27217,South
+US-Wes-New-Car-88220,United States,Carlsbad,New Mexico,88220,West
+US-Cen-Okl-Edm-73034,United States,Edmond,Oklahoma,73034,Central
+US-Wes-Cal-Mon-90640,United States,Montebello,California,90640,West
+US-Eas-Con-She-6484,United States,Shelton,Connecticut,6484,East
+US-Cen-Kan-Ove-66212,United States,Overland Park,Kansas,66212,Central
+US-Eas-New-Eas-7017,United States,East Orange,New Jersey,7017,East
+US-Sou-Nor-Hic-28601,United States,Hickory,North Carolina,28601,South
+US-Cen-Tex-San-76903,United States,San Angelo,Texas,76903,Central
+US-Cen-Iow-Mar-52302,United States,Marion,Iowa,52302,Central
+US-Wes-Cal-Mor-95037,United States,Morgan Hill,California,95037,West
+US-Sou-Ken-Mur-42071,United States,Murray,Kentucky,42071,South
+US-Wes-Cal-Ant-94509,United States,Antioch,California,94509,West
+US-Cen-Tex-Ric-75080,United States,Richardson,Texas,75080,Central
+US-Cen-Neb-Fre-68025,United States,Fremont,Nebraska,68025,Central
+US-Cen-Ind-Gre-46142,United States,Greenwood,Indiana,46142,Central
+US-Sou-Flo-Hom-33030,United States,Homestead,Florida,33030,South
+US-Wes-Cal-Tor-90503,United States,Torrance,California,90503,West
+US-Wes-Cal-App-92307,United States,Apple Valley,California,92307,West
+US-Sou-Nor-Gol-27534,United States,Goldsboro,North Carolina,27534,South
+US-Eas-New-Nas-3060,United States,Nashua,New Hampshire,3060,East
+US-Cen-Tex-Dee-77536,United States,Deer Park,Texas,77536,Central
+US-Sou-Ala-Tus-35401,United States,Tuscaloosa,Alabama,35401,South
+US-Sou-Flo-Orm-32174,United States,Ormond Beach,Florida,32174,South
+US-Cen-Tex-Kel-76248,United States,Keller,Texas,76248,Central
+US-Sou-Ala-Hoo-35244,United States,Hoover,Alabama,35244,South
+US-Cen-Okl-Mus-74403,United States,Muskogee,Oklahoma,74403,Central
+US-Sou-Ark-Rog-72756,United States,Rogers,Arkansas,72756,South
+US-Sou-Flo-Pom-33068,United States,Pompano Beach,Florida,33068,South
+US-Wes-Cal-Fai-94533,United States,Fairfield,California,94533,West
+US-Cen-Mic-Oak-48237,United States,Oak Park,Michigan,48237,Central
+US-Eas-New-New-8901,United States,New Brunswick,New Jersey,8901,East
+US-Wes-Col-Gre-80634,United States,Greeley,Colorado,80634,West
+US-Sou-Flo-Kis-34741,United States,Kissimmee,Florida,34741,South
+US-Sou-Flo-San-32771,United States,Sanford,Florida,32771,South
+US-Cen-Ill-Dan-61832,United States,Danville,Illinois,61832,Central
+US-Wes-Cal-Wes-92683,United States,Westminster,California,92683,West
+US-Cen-Tex-Man-76063,United States,Mansfield,Texas,76063,Central
+US-Cen-Nor-Far-58103,United States,Fargo,North Dakota,58103,Central
+US-Eas-Mar-Lau-20707,United States,Laurel,Maryland,20707,East
+US-Wes-Cal-Cit-95610,United States,Citrus Heights,California,95610,West
+US-Wes-Cal-San-94403,United States,San Mateo,California,94403,West
+US-Wes-Cal-Pic-90660,United States,Pico Rivera,California,90660,West
+US-Cen-Iow-Wat-50701,United States,Waterloo,Iowa,50701,Central
+US-Cen-Min-Map-55369,United States,Maple Grove,Minnesota,55369,Central
+US-Cen-Ind-Elk-46514,United States,Elkhart,Indiana,46514,Central
+US-Wes-Col-Lov-80538,United States,Loveland,Colorado,80538,West
+US-Wes-Cal-Ing-90301,United States,Inglewood,California,90301,West
+US-Wes-Cal-La -91941,United States,La Mesa,California,91941,West
+US-Cen-Mis-Ind-64055,United States,Independence,Missouri,64055,Central
+US-Wes-Cal-Mod-95351,United States,Modesto,California,95351,West
+US-Wes-New-Clo-88101,United States,Clovis,New Mexico,88101,West
+US-Cen-Neb-Gra-68801,United States,Grand Island,Nebraska,68801,Central
+US-Sou-Flo-Mel-32935,United States,Melbourne,Florida,32935,South
+US-Cen-Tex-Pea-77581,United States,Pearland,Texas,77581,Central
+US-Sou-Ark-Pin-71603,United States,Pine Bluff,Arkansas,71603,South
+US-Cen-Min-Sai-56301,United States,Saint Cloud,Minnesota,56301,Central
+US-Sou-Flo-Mir-33023,United States,Miramar,Florida,33023,South
+US-Eas-Ohi-Men-44060,United States,Mentor,Ohio,44060,East
+US-Wes-Ida-Mer-83642,United States,Meridian,Idaho,83642,West
+US-Eas-Wes-Whe-26003,United States,Wheeling,West Virginia,26003,East
+US-Wes-Was-Bel-98226,United States,Bellingham,Washington,98226,West
+US-Wes-Cal-Dan-94526,United States,Danville,California,94526,West
+US-Sou-Ark-Spr-72762,United States,Springdale,Arkansas,72762,South
+US-Wes-Cal-Sun-94086,United States,Sunnyvale,California,94086,West
+US-Wes-Cal-Coa-92236,United States,Coachella,California,92236,West
+US-Cen-Sou-Abe-57401,United States,Aberdeen,South Dakota,57401,Central
+US-Sou-Flo-Jup-33458,United States,Jupiter,Florida,33458,South
+US-Wes-Cal-Dub-94568,United States,Dublin,California,94568,West
+US-Eas-Ohi-Gro-43123,United States,Grove City,Ohio,43123,East
+US-Eas-Ohi-Ely-44035,United States,Elyria,Ohio,44035,East
+US-Eas-Mar-Hag-21740,United States,Hagerstown,Maryland,21740,East
+US-Cen-Mic-Sag-48601,United States,Saginaw,Michigan,48601,Central
+US-Cen-Tex-Col-77840,United States,College Station,Texas,77840,Central
+US-Wes-Cal-Ont-91761,United States,Ontario,California,91761,West
+US-Wes-Was-Ren-98059,United States,Renton,Washington,98059,West
+US-Cen-Mic-Can-48187,United States,Canton,Michigan,48187,Central
+US-Sou-Sou-Sum-29483,United States,Summerville,South Carolina,29483,South
+US-Cen-Mis-Gla-64118,United States,Gladstone,Missouri,64118,Central
+US-Cen-Tex-Mis-77489,United States,Missouri City,Texas,77489,Central
+US-Cen-Mic-Roc-48307,United States,Rochester Hills,Michigan,48307,Central
+US-Sou-Nor-Cha-27514,United States,Chapel Hill,North Carolina,27514,South
+US-Wes-Col-Com-80022,United States,Commerce City,Colorado,80022,West

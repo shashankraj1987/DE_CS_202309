@@ -170,7 +170,6 @@ PS-18970,Paul Stevenson,Home Office,US-Wes-Cal-Los-90049
 SP-20650,Stephanie Phelps,Corporate,US-Sou-Nor-Wil-28403
 KM-16720,Kunst Miller,Consumer,US-Cen-Tex-Hou-77095
 JL-15835,John Lee,Consumer,US-Wes-Cal-Los-90049
-NF-18595,Nicole Fjeld,Home Office,US-Wes-Cal-San-95123
 AG-10390,Allen Goldenen,Consumer,US-Sou-Vir-Arl-22204
 SV-20365,Seth Vernon,Consumer,US-Cen-Tex-Hou-77070
 BP-11230,Benjamin Patterson,Consumer,US-Wes-Cal-Los-90045
@@ -199,13 +198,11 @@ AR-10510,Andrew Roberts,Consumer,US-Eas-Ohi-Col-43229
 CS-11860,Cari Schnelling,Consumer,US-Sou-Flo-Lak-33801
 JS-15940,Joni Sundaresam,Home Office,US-Cen-Wis-App-54915
 NC-18415,Nathan Cano,Consumer,US-Eas-New-Yon-10701
-AA-10480,Andrew Allen,Consumer,US-Eas-Con-Mid-6457
 NC-18340,Nat Carroll,Consumer,US-Cen-Tex-Hou-77036
 BS-11365,Bill Shonely,Corporate,US-Wes-Was-Sea-98105
 PM-18940,Paul MacIntyre,Consumer,US-Cen-Mic-Jac-49201
 GD-14590,Giulietta Dortch,Corporate,US-Sou-Vir-Arl-22204
 KH-16330,Katharine Harms,Corporate,US-Cen-Ill-Fre-61032
-EB-13870,Emily Burns,Consumer,US-Cen-Tex-San-78207
 PF-19120,Peter Fuller,Consumer,US-Sou-Ken-Ric-40475
 SN-20710,Steve Nguyen,Home Office,US-Wes-Cal-Los-90004
 HP-14815,Harold Pawlan,Home Office,US-Wes-Cal-Los-90049
@@ -544,8 +541,8 @@ JK-15640,Jim Kriz,Home Office,US-Wes-Cal-San-94110
 FA-14230,Frank Atkinson,Corporate,US-Wes-Cal-Lon-90805
 ND-18460,Neil Ducich,Corporate,US-Wes-Ari-Cha-85224
 SB-20185,Sarah Brown,Consumer,US-Cen-Ill-Chi-60653
-MW-18220,Mitch Webber,Consumer,US-Eas-New-New-10011
 DN-13690,Duane Noonan,Consumer,US-Eas-Mar-Col-21044
+MW-18220,Mitch Webber,Consumer,US-Eas-New-New-10011
 HG-14965,Henry Goldwyn,Corporate,US-Wes-Cal-San-92024
 PF-19165,Philip Fox,Consumer,US-Cen-Ill-Blo-61701
 DB-13555,Dorothy Badders,Corporate,US-Sou-Flo-Jac-32216
@@ -716,7 +713,6 @@ TB-21595,Troy Blackwell,Consumer,US-Wes-Ore-Por-97206
 TC-20980,Tamara Chand,Corporate,US-Cen-Tex-Hou-77041
 EB-13870,Emily Burns,Consumer,US-Wes-Cal-Red-96003
 JP-15520,Jeremy Pistek,Consumer,US-Wes-Cal-San-94110
-BF-11215,Benjamin Farhat,Home Office,US-Eas-New-New-10035
 RD-19900,Ruben Dartt,Consumer,US-Wes-Cal-San-92037
 SC-20020,Sam Craven,Consumer,US-Cen-Mic-Mid-48640
 KN-16705,Kristina Nunn,Home Office,US-Eas-New-New-10801
@@ -750,8 +746,8 @@ AH-10075,Adam Hart,Corporate,US-Wes-Cal-Hun-92646
 FG-14260,Frank Gastineau,Home Office,US-Eas-New-New-10024
 MP-17470,Mark Packer,Home Office,US-Cen-Min-Moo-56560
 RB-19330,Randy Bradley,Consumer,US-Eas-Pen-Phi-19143
-GT-14710,Greg Tran,Consumer,US-Eas-New-Buf-14215
 YC-21895,Yoseph Carroll,Corporate,US-Eas-Del-New-19711
+GT-14710,Greg Tran,Consumer,US-Eas-New-Buf-14215
 TS-21205,Thomas Seio,Corporate,US-Wes-Cal-San-94109
 CB-12025,Cassandra Brandow,Consumer,US-Cen-Tex-Ced-75104
 JK-15730,Joe Kamberova,Consumer,US-Cen-Ill-Des-60016
@@ -924,10 +920,10 @@ TH-21235,Tiffany House,Corporate,US-Eas-New-New-10024
 BF-11170,Ben Ferrer,Home Office,US-Wes-Cal-Los-90045
 LF-17185,Luke Foster,Consumer,US-Sou-Flo-Mia-33180
 RP-19390,Resi Pölking,Consumer,US-Eas-Ohi-Cle-44105
-JC-16105,Julie Creighton,Corporate,US-Wes-Cal-Los-90045
 AS-10090,Adam Shillingsburg,Consumer,US-Wes-Cal-San-92037
-KL-16555,Kelly Lampkin,Corporate,US-Wes-Col-Col-80906
+JC-16105,Julie Creighton,Corporate,US-Wes-Cal-Los-90045
 TB-21520,Tracy Blumstein,Consumer,US-Eas-New-New-10009
+KL-16555,Kelly Lampkin,Corporate,US-Wes-Col-Col-80906
 CK-12595,Clytie Kelty,Consumer,US-Wes-Cal-San-92024
 AY-10555,Andy Yotov,Corporate,US-Eas-Pen-Phi-19140
 AD-10180,Alan Dominguez,Home Office,US-Cen-Tex-Hou-77041
@@ -971,7 +967,6 @@ CB-12535,Claudia Bergmann,Corporate,US-Eas-Del-New-19711
 AH-10465,Amy Hunt,Consumer,US-Cen-Tex-Dal-75217
 SF-20965,Sylvia Foulston,Corporate,US-Cen-Tex-Bay-77520
 CS-12250,Chris Selesnick,Corporate,US-Cen-Min-Woo-55125
-AG-10495,Andrew Gjertsen,Corporate,US-Sou-Vir-Ale-22304
 SR-20740,Steven Roelle,Home Office,US-Wes-Was-Sea-98103
 BG-11695,Brooke Gillingham,Corporate,US-Eas-New-New-10009
 JL-15175,James Lanier,Home Office,US-Wes-Cal-San-94110
@@ -1179,7 +1174,6 @@ RA-19915,Russell Applegate,Consumer,US-Cen-Tex-Hou-77095
 SD-20485,Shirley Daniels,Home Office,US-Cen-Mic-Mid-48640
 JK-15640,Jim Kriz,Home Office,US-Eas-Pen-Phi-19120
 BP-11230,Benjamin Patterson,Consumer,US-Eas-Ohi-Tro-45373
-PS-18970,Paul Stevenson,Home Office,US-Cen-Ill-Chi-60610
 KB-16585,Ken Black,Corporate,US-Wes-Cal-San-94110
 JW-15220,Jane Waco,Corporate,US-Eas-Mas-Law-1841
 DB-13120,David Bremer,Corporate,US-Sou-Flo-Tam-33614
@@ -1189,6 +1183,7 @@ NC-18625,Noah Childs,Corporate,US-Cen-Tex-Hou-77095
 SV-20785,Stewart Visinsky,Consumer,US-Eas-Pen-Phi-19140
 LC-16870,Lena Cacioppo,Consumer,US-Wes-Cal-San-94109
 JB-16045,Julia Barnett,Home Office,US-Wes-Cal-Chu-91911
+NF-18595,Nicole Fjeld,Home Office,US-Wes-Cal-San-95123
 LA-16780,Laura Armstrong,Corporate,US-Cen-Ill-Tin-60477
 SV-20815,Stuart Van,Corporate,US-Cen-Ind-Ind-46203
 AS-10225,Alan Schoenberger,Corporate,US-Eas-New-New-10024
@@ -1321,7 +1316,6 @@ CY-12745,Craig Yedwab,Corporate,US-Wes-Ari-Gil-85234
 MP-17470,Mark Packer,Home Office,US-Sou-Geo-Smy-30080
 MM-18055,Michelle Moray,Consumer,US-Eas-New-New-10011
 NF-18475,Neil Französisch,Home Office,US-Cen-Neb-Oma-68104
-SC-20725,Steven Cartwright,Consumer,US-Eas-Pen-Lan-17602
 SG-20470,Sheri Gordon,Consumer,US-Eas-New-New-10024
 RH-19600,Rob Haberlin,Consumer,US-Cen-Ill-Car-60188
 FA-14230,Frank Atkinson,Corporate,US-Sou-Nor-Ral-27604
@@ -1819,7 +1813,6 @@ JE-15475,Jeremy Ellison,Consumer,US-Eas-New-New-10024
 MA-17995,Michelle Arnett,Home Office,US-Wes-New-Las-88001
 LC-16885,Lena Creighton,Consumer,US-Cen-Ill-Cha-61821
 AJ-10945,Ashley Jarboe,Consumer,US-Wes-Cal-San-94110
-TP-21415,Tom Prescott,Consumer,US-Eas-New-Fre-11520
 MC-17425,Mark Cousins,Corporate,US-Eas-New-New-10035
 EB-14110,Eugene Barchas,Consumer,US-Eas-Ohi-Col-43229
 DR-12880,Dan Reichenbach,Corporate,US-Cen-Ill-Chi-60623
@@ -1846,7 +1839,6 @@ KD-16495,Keith Dawkins,Corporate,US-Sou-Vir-Che-23320
 MA-17560,Matt Abelman,Home Office,US-Cen-Mic-Jac-49201
 JG-15115,Jack Garza,Consumer,US-Sou-Nor-Jac-28540
 HP-14815,Harold Pawlan,Home Office,US-Eas-New-Con-3301
-PW-19240,Pierre Wener,Consumer,US-Wes-Cal-San-94110
 DK-13225,Dean Katz,Corporate,US-Eas-Pen-Phi-19140
 AB-10255,Alejandro Ballentine,Home Office,US-Eas-Pen-Phi-19134
 MP-17470,Mark Packer,Home Office,US-Eas-New-New-10009
@@ -2018,11 +2010,11 @@ EH-13945,Eric Hoffmann,Consumer,US-Wes-Cal-Los-90049
 CC-12430,Chuck Clark,Home Office,US-Eas-New-Con-3301
 DL-13495,Dionis Lloyd,Corporate,US-Sou-Geo-Col-31907
 TD-20995,Tamara Dahlen,Consumer,US-Wes-Cal-San-92037
-CM-11935,Carlos Meador,Consumer,US-Sou-Nor-Fay-28314
 BT-11530,Bradley Talbott,Home Office,US-Eas-Ohi-Cle-44105
 TB-21280,Toby Braunhardt,Consumer,US-Eas-New-New-10009
 FP-14320,Frank Preis,Consumer,US-Wes-Cal-San-92037
 PG-18895,Paul Gonzalez,Consumer,US-Eas-New-Mor-7960
+CM-11935,Carlos Meador,Consumer,US-Sou-Nor-Fay-28314
 MC-17275,Marc Crier,Consumer,US-Wes-Was-Sea-98105
 AJ-10795,Anthony Johnson,Corporate,US-Wes-Was-Sea-98115
 CB-12535,Claudia Bergmann,Corporate,US-Eas-Ver-Bur-5408
@@ -2678,8 +2670,8 @@ GH-14410,Gary Hansen,Home Office,US-Cen-Tex-Hou-77070
 PK-19075,Pete Kriz,Consumer,US-Cen-Mic-Det-48227
 JC-15340,Jasper Cacioppo,Consumer,US-Eas-Pen-Phi-19120
 MV-17485,Mark Van Huff,Consumer,US-Eas-New-New-10011
-DB-13210,Dean Braden,Consumer,US-Eas-Pen-Phi-19134
 MM-17920,Michael Moore,Consumer,US-Sou-Vir-Che-23320
+DB-13210,Dean Braden,Consumer,US-Eas-Pen-Phi-19134
 MD-17350,Maribeth Dona,Consumer,US-Eas-Ohi-Lan-43130
 JH-15985,Joseph Holt,Consumer,US-Wes-Cal-Red-90278
 DM-13525,Don Miller,Corporate,US-Cen-Tex-Hou-77070
@@ -2736,7 +2728,6 @@ JD-16150,Justin Deggeller,Corporate,US-Wes-Ida-Twi-83301
 AH-10075,Adam Hart,Corporate,US-Eas-New-New-10011
 KD-16495,Keith Dawkins,Corporate,US-Wes-Cal-San-95123
 BC-11125,Becky Castell,Home Office,US-Wes-Cal-Lag-92677
-CR-12625,Corey Roper,Home Office,US-Sou-Geo-Col-31907
 PO-18865,Patrick O'Donnell,Consumer,US-Eas-Mas-Mar-1752
 TS-21610,Troy Staebel,Consumer,US-Eas-Ohi-Spr-45503
 BS-11590,Brendan Sweed,Corporate,US-Cen-Ind-Col-47201
@@ -2827,7 +2818,6 @@ DM-12955,Dario Medina,Corporate,US-Wes-Ari-Yum-85364
 SJ-20215,Sarah Jordon,Consumer,US-Cen-Ill-Qui-62301
 GM-14680,Greg Matthias,Consumer,US-Eas-New-New-10011
 HG-15025,Hunter Glantz,Consumer,US-Cen-Tex-Ama-79109
-BD-11620,Brian DeCherney,Consumer,US-Wes-Cal-San-94122
 CC-12220,Chris Cortes,Consumer,US-Cen-Ind-La -46350
 JK-15205,Jamie Kunitz,Consumer,US-Sou-Flo-Hia-33012
 GM-14680,Greg Matthias,Consumer,US-Eas-New-New-10024
@@ -3565,7 +3555,6 @@ EB-13750,Edward Becker,Corporate,US-Sou-Ala-Hoo-35244
 ND-18370,Natalie DeCherney,Consumer,US-Cen-Tex-Hou-77095
 JE-15745,Joel Eaton,Consumer,US-Wes-Cal-San-95123
 PL-18925,Paul Lucas,Home Office,US-Cen-Ill-Chi-60610
-BG-11740,Bruce Geld,Consumer,US-Eas-Pen-Phi-19120
 SR-20425,Sharelle Roach,Home Office,US-Wes-Col-Lou-80027
 BM-11575,Brendan Murry,Corporate,US-Cen-Ill-Chi-60653
 CV-12295,Christina VanderZanden,Consumer,US-Cen-Mic-Det-48234
@@ -3760,7 +3749,6 @@ LS-16945,Linda Southworth,Corporate,US-Cen-Tex-Dal-75220
 DK-12835,Damala Kotsonis,Corporate,US-Cen-Neb-Fre-68025
 AH-10585,Angele Hood,Consumer,US-Sou-Flo-Mia-33142
 FH-14365,Fred Hopkins,Corporate,US-Eas-Pen-Phi-19120
-PO-18850,Patrick O'Brill,Consumer,US-Wes-Cal-Los-90008
 RL-19615,Rob Lucas,Consumer,US-Eas-Pen-Phi-19120
 MP-17965,Michael Paige,Corporate,US-Eas-Rho-War-2886
 CS-12355,Christine Sundaresam,Consumer,US-Eas-New-Lon-11561
@@ -3833,7 +3821,6 @@ GZ-14545,George Zrebassa,Corporate,US-Wes-Cal-Los-90036
 TM-21490,Tony Molinari,Consumer,US-Eas-New-Yon-10701
 MG-18145,Mike Gockenbach,Consumer,US-Sou-Flo-Jac-32216
 DK-13375,Dennis Kane,Consumer,US-Wes-Was-Sea-98115
-JW-15955,Joni Wasserman,Consumer,US-Sou-Nor-Ral-27604
 MH-17620,Matt Hagelstein,Corporate,US-Wes-Cal-San-94110
 RF-19735,Roland Fjeld,Consumer,US-Cen-Okl-Okl-73120
 GM-14440,Gary McGarr,Consumer,US-Eas-New-Tro-12180
@@ -4541,8 +4528,8 @@ TZ-21580,Tracy Zic,Consumer,US-Wes-Cal-San-94122
 EB-13750,Edward Becker,Corporate,US-Wes-Cal-Lag-92677
 HZ-14950,Henia Zydlo,Consumer,US-Sou-Flo-For-33311
 SZ-20035,Sam Zeldin,Home Office,US-Cen-Mic-Can-48187
-BD-11500,Bradley Drucker,Consumer,US-Wes-Cal-San-94122
 BS-11590,Brendan Sweed,Corporate,US-Sou-Ken-Lou-40214
+BD-11500,Bradley Drucker,Consumer,US-Wes-Cal-San-94122
 CC-12610,Corey Catlett,Corporate,US-Eas-Ohi-Col-43229
 TT-21460,Tonja Turnell,Home Office,US-Cen-Ind-Ric-47374
 LS-17245,Lynn Smith,Consumer,US-Cen-Mis-Gla-64118
@@ -4664,7 +4651,6 @@ GA-14515,George Ashbrook,Consumer,US-Eas-New-New-10011
 CJ-12010,Caroline Jumper,Consumer,US-Wes-Cal-Hun-92646
 ML-17755,Max Ludwig,Home Office,US-Wes-Ore-Spr-97477
 AM-10705,Anne McFarland,Consumer,US-Wes-Was-Sea-98115
-SB-20185,Sarah Brown,Consumer,US-Eas-New-New-10024
 FM-14380,Fred McMath,Consumer,US-Cen-Ill-Bol-60440
 SC-20725,Steven Cartwright,Consumer,US-Eas-New-New-10024
 SC-20260,Scott Cohen,Corporate,US-Eas-New-New-10009
